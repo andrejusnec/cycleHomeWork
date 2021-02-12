@@ -1,0 +1,9 @@
+body {
+    display: inline-block;
+}
+.test {
+    word-wrap: break-word;
+}
+.centras{
+    text-align: center;
+}
